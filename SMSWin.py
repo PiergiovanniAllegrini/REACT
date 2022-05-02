@@ -13,7 +13,7 @@ def SendSms1(msg,):
     gsm.write(b'\r\n')
     gsm.write(b'AT+CMGF=1\r\n')
     time.sleep(0.5)
-    gsm.write(b'AT+CMGS=\"3392585153" \r\n')
+    gsm.write(b'AT+CMGS=\"{insert phone number without prefixes}" \r\n')
     #serialcmd = args["{insert phone number without prefixes}"]
     #gsm.write(serialcmd.encode())
     #gsm.write(b'\"\r\n')
