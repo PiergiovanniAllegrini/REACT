@@ -1,6 +1,6 @@
 # REACT
 
-An enormous number of domestic accidents occur each year all around the worl; this project, via the use of computer vision libraries, has the purpose of recognizing the emergency situations from a real-time video stream and give an emergency alarm via SMS to a preset of cellphone numbers belonging to the caregivers. The choice of using MediaPipe is due to the fact it is very versatile and usable on nealry any OS and platform. 
+An enormous number of domestic accidents occur each year all around the world; this project, via the use of computer vision libraries, has the purpose of recognizing the emergency situations from a real-time video stream and give an emergency alarm via SMS to a preset of cellphone numbers belonging to the caregivers. The choice of using MediaPipe is due to the fact it is very versatile and usable on nealry any OS and platform. 
 
 # Windows Version
 
